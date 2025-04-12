@@ -1,0 +1,70 @@
+THIS TENANCY AGREEMENT is made this [Day] day of [Month], [Year].
+BETWEEN:
+[LandlordName], of [LandlordAddress] (hereinafter referred to as “the Landlord”)
+AND
+[TenantName], of [TenantAddress] (hereinafter referred to as “the Tenant”)
+IT IS AGREED AS FOLLOWS:
+1. The Property
+ The Landlord lets and the Tenant takes ALL THAT property situated at [PropertyAddress] (the “Property”).
+
+
+2. Term
+ The tenancy shall be for a period of [Number] [Months/Years], commencing on [StartDate].
+
+
+3. Rent
+ Monthly rent is [MonthlyRent] ([AmountInWords]) Ghana Cedis, payable in advance on the [DayOfMonth] of each month.
+
+
+4. Security Deposit
+ The Tenant shall pay a deposit of [DepositAmount] ([AmountInWords]) Ghana Cedis, refundable at the end of the tenancy, subject to deductions.
+
+
+5. Tenant’s Covenants
+ The Tenant shall:
+
+
+Pay rent on time
+
+
+Maintain the property in good condition
+
+
+Avoid damage or illegal use
+
+
+Permit reasonable inspections
+
+
+Not sublet without consent
+
+
+6. Landlord’s Covenants
+ The Landlord shall:
+
+
+Guarantee quiet possession
+
+
+Maintain the property’s structure
+
+
+7. Termination
+ Either party may terminate the agreement with [NoticePeriod] written notice.
+
+
+8. Governing Law
+ This Agreement shall be governed by the laws of the Republic of Ghana.
+
+
+SIGNED:
+Landlord: _____________________
+ Name: [LandlordName]
+Tenant: _______________________
+ Name: [TenantName]
+Witnesses:
+Name: [WitnessNameLandlord], Address: [WitnessAddressLandlord]
+
+
+Name: [WitnessNameTenant], Address: [WitnessAddressTenant]
+
