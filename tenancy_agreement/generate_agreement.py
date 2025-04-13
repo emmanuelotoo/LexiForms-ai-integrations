@@ -50,7 +50,12 @@ if __name__ == "__main__":
         "Payment Address": "Landlord's Bank Account",
         "Method of Payment": "Bank Transfer",
         "Notice Period": "30",
-        "Other Utilities": "Internet"
+        "Other Utilities": "Internet",
+        "any other significant features": "a balcony and a garage",
+        "Witness Name": "Michael Brown",
+        "Witness Address": "789 Cedar Street, Accra",
+        "Witness Occupation": "Lawyer",
+        "Date": "April 13, 2025"
     }
 
     generate_tenancy_agreement(template_path, output_path, placeholders)
